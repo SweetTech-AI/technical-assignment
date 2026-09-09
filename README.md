@@ -8,7 +8,7 @@
 
 ## The story
 
-You are a senior engineer at Landjourney, a fintech building modern tooling for
+You are a senior engineer at SweetTech, a fintech building modern tooling for
 agricultural lenders. Six people on the team, no design department, more ambition
 than runway.
 
@@ -60,7 +60,7 @@ are busy. Every extra click costs them.
 | Frontend | Angular (latest stable)                 |
 | Run      | One command, documented in your README  |
 
-Landjourney's production backend is Python, which is why this assignment is
+SweetTech's production backend is Python, which is why this assignment is
 Python. If you have not shipped a lot of FastAPI, that is fine and expected — we
 are reading for how you design an API and where you put a trust boundary, not for
 framework trivia.
