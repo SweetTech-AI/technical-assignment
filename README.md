@@ -1,4 +1,4 @@
-# Landjourney — Take-Home Assignment
+# SweetTech — Take-Home Assignment
 
 **Level:** Senior Full-Stack Engineer
 **Time budget:** 6 hours — a hard constraint, not a suggestion
